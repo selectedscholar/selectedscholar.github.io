@@ -1221,6 +1221,7 @@ ul.navbar-nav > li > a i{
 
 .image-block{
 	background: #f4f4f4;
+    background: #ffc400;
 }
 
 .img-block-right{
@@ -1253,12 +1254,23 @@ ul.navbar-nav > li > a i{
 	text-align: center;
 }
 
+.image-block-content .feature-icon-nobackground{
+    width: 60px;
+    height: 60px;
+    line-height: 60px;
+    border-radius: 100%;
+    display: inline-block;
+    text-align: center;
+}
+
 .image-block-content .feature-content{
 	padding-left: 85px;
+    
 }
 
 .image-block-content .feature-content h3{
 	margin-bottom: 0;
+    color: #000b4f;;
 }
 
 
