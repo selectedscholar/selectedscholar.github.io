@@ -2210,7 +2210,6 @@ figure.effect-oscar:hover img {
 ================================================== */
 
 .clients{
-	color: #f5f5f5;
 	padding-bottom: 80px;
 }
 .clients-content{
@@ -3249,7 +3248,9 @@ iframe{
 
 
 /* Subscribe Form */
-
+.newsletter{
+	background-color: #f5f5f5;
+}
 
 .newsletter-form{
 	position: relative;
