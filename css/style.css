@@ -1807,10 +1807,10 @@ figure.effect-oscar:hover img {
 
 .img-hexagon span {
     position: absolute;
-    display: block;
+   /* display: block;
     float:left;
 	border-left: 120px solid #fff;
-	border-right: 120px solid #fff;
+	border-right: 120px solid #fff;*/
 }
 
 .img-top {
@@ -1826,14 +1826,16 @@ figure.effect-oscar:hover img {
 }
 
 .img-hexagon {
-    width: 240px;
-    height: 250px;
+    width: 220px;
+    height: 220px;
     position: relative;
-    display: inline-block;
+	display: inline-block;
+	
 }
 .img-hexagon img{
 	width: 100%;
 	height: 100%;
+	border-radius: 100%;
 }
 
 
